@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github-users-finder/static/css/main.8e0d347c.chunk.css",
+    "main.js": "/github-users-finder/static/js/main.919b1b66.chunk.js",
+    "main.js.map": "/github-users-finder/static/js/main.919b1b66.chunk.js.map",
+    "runtime~main.js": "/github-users-finder/static/js/runtime~main.1fb3113e.js",
+    "runtime~main.js.map": "/github-users-finder/static/js/runtime~main.1fb3113e.js.map",
+    "static/js/2.c98dcc8b.chunk.js": "/github-users-finder/static/js/2.c98dcc8b.chunk.js",
+    "static/js/2.c98dcc8b.chunk.js.map": "/github-users-finder/static/js/2.c98dcc8b.chunk.js.map",
+    "index.html": "/github-users-finder/index.html",
+    "precache-manifest.d6e744bca8222720409242a2f0261d2a.js": "/github-users-finder/precache-manifest.d6e744bca8222720409242a2f0261d2a.js",
+    "service-worker.js": "/github-users-finder/service-worker.js",
+    "static/css/main.8e0d347c.chunk.css.map": "/github-users-finder/static/css/main.8e0d347c.chunk.css.map",
+    "static/media/spinner.gif": "/github-users-finder/static/media/spinner.9209e391.gif"
+  }
+}
